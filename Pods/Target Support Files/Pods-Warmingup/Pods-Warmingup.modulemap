@@ -1,0 +1,6 @@
+framework module Pods_Warmingup {
+  umbrella header "Pods-Warmingup-umbrella.h"
+
+  export *
+  module * { export * }
+}
